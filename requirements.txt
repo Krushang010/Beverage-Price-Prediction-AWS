@@ -1,0 +1,17 @@
+# Core data science
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.7.2
+
+# Final modeling
+lightgbm==4.6.0
+
+# Visualization / EDA
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# AWS
+boto3==1.43.56
+
+# Experiment tracking
+mlflow==3.15.1
