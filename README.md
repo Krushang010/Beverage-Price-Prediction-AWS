@@ -3,7 +3,7 @@
 An end-to-end machine learning and MLOps project for predicting a consumer's preferred beverage price range from survey and behavioral attributes.
 
 The project started as a local classification problem and was rebuilt on AWS to implement a production-oriented workflow covering data processing, model development, experiment tracking, managed training, model governance, serverless inference, API integration, monitoring, and automated retraining pipelines.
-
+APP Link : https://beverage-price-prediction-aws.streamlit.app/
 ---
 
 ## Business Problem
