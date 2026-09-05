@@ -32,3 +32,15 @@ data/
 
 # Logs
 *.log
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Generated deployment packaging
+src/deployment/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Generated deployment packaging
+src/deployment/
